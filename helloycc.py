@@ -1,2 +1,2 @@
 
-print("hello ycc")
+print("hello lgh")
