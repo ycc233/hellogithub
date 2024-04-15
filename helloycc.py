@@ -12,7 +12,7 @@ def ycc_first_plot():
     plot a simple graph in current winodws
     save in ycc_first_image.png
     """
-
+    #add some shit
     #data
     x = np.arange(0,100,1)
     y = np.sin(x)
