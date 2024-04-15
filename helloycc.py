@@ -15,8 +15,7 @@ def ycc_first_plot():
     #add some shit
     #data
     x = np.arange(0,100,1)
-    y = np.sin(x)
-
+    y = np.sin(x) ** 3
     plt.plot(x, y, '-', linewidth=0.8)
     plt.show()
     plt.savefig("ycc_first_image.png")    
