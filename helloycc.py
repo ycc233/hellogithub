@@ -15,7 +15,7 @@ def ycc_first_plot():
     #add some shit
     #data
     #add ******    
-    x = np.arange(0,1000000,1)
+    x = np.arange(0,1000,2)
     y = np.sin(x) ** 3
     plt.plot(x, y, '-', linewidth=0.8)
     plt.show()
